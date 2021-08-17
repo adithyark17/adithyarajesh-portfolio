@@ -102,7 +102,7 @@ a.link-secondary:hover {
 }
 
 .navigation .link {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .navigation .link-active {
@@ -159,7 +159,7 @@ a.link-secondary:hover {
 }
 
 .footer .link {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .footer .footer-header {
