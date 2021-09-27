@@ -18,13 +18,9 @@ p {
 }
 
 hr {
-    margin: 2rem 0rem;
-}
-
-.hr {
-    width: 60%;
     margin: 2rem;
-    object-position: 1rem;
+    display: block;
+
 }
 
 /** spaces **/
